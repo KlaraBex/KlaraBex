@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KlaraBex
+- 👀 I’m interested in Web Development and Reading Books
+- 🌱 I’m currently learning OS development in C
+- 💞️ I’m looking to collaborate on anything challenging
+- ⚡ Fun fact: I started programming at the age of 10, but I used GitLab until now.
